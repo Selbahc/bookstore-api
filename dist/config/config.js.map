@@ -1,0 +1,1 @@
+{"version":3,"sources":["../../src/config/config.js"],"names":["port","mongoUrl"],"mappings":";;;;;kBAAe;AACbA,QAAM,IADO;AAEbC,YAAU;AAFG,C","file":"config.js","sourcesContent":["export default {\n  port: 3000,\n  mongoUrl: \"mongodb://localhost:27017/bookstore\"\n}\n"]}
